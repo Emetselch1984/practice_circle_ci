@@ -44,5 +44,4 @@ workflows:
       - two:
           requires:
             - one
-  ワークスペースの詳細については、こちらを参照してください。
 
